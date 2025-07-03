@@ -42,3 +42,6 @@ This project is built and tested on **Wokwi**, an advanced and beginner-friendly
   - `C` → Coffee Machine ON, `c` → Coffee Machine OFF
   - `T` → Table Lamp ON, `t` → Table Lamp OFF
 
+# Output
+![Image](https://github.com/user-attachments/assets/baf7fabb-4f41-4a64-a992-9ea44ce26572)
+
